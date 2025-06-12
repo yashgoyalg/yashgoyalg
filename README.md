@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/yashgoyalg_" target="blank"><img src="https://img.shields.io/twitter/follow/yashgoyalg_?logo=twitter&style=for-the-badge" alt="yashgoyalg_" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Django, Machine Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **any project in which I can enhance skills**
+- 👯 I’m looking to collaborate on **iOS projects to enhance my skills**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yashgoyalg/](https://www.linkedin.com/in/yashgoyalg/)
 
-- 💬 Ask me about **Tkinter, Numpy, Pandas, Matplotlib**
+- 💬 Ask me about **Swist, SwiftUI, Firebase, Python, UiKit**
 
 - 📫 How to reach me **goyal380yash@gmail.com**
 
